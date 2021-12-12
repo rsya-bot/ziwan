@@ -1,1 +1,1 @@
-worker: npm start
+worker : npm i github:@adiwajshing/baileys#multi-device && npm start
